@@ -1,6 +1,6 @@
 # Hi, I'm Niraj Ghode 👋
 
-I’m a manufacturing and quality engineer with growing experience in **AI/ML, data analytics, computer vision, and process optimization**. I enjoy building data-driven solutions for real engineering problems in semiconductor, EV battery, and manufacturing environments.
+I’m a manufacturing and quality engineer with growing experience in **AI/ML, data analytics, computer vision, and process optimization**. I enjoy building data-driven and AI/ML solutions for real-world engineering problems.
 
 Above all, I enjoy learning and using technology to solve practical problems.
 
