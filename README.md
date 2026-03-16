@@ -27,8 +27,7 @@ Above all, I enjoy learning and using technology to solve practical problems.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📌 Current Interests:
-- Machine Learning for manufacturing
-- Predictive maintenance
+- AI/ML for solving problems
 - Computer vision for defect detection
-- Data analytics with Python and SQL
+- Data analytics with Python, Minitab and SQL
 - AI/ML for industrial process optimization
