@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Niraj Ghode 👋
 
-<!--
-**nirajghode29/nirajghode29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a manufacturing and quality engineer with growing experience in **AI/ML, data analytics, computer vision, and process optimization**. I enjoy building data-driven solutions for real engineering problems in semiconductor, EV battery, and manufacturing environments.
 
-Here are some ideas to get you started:
+Above all, I enjoy learning and using technology to solve practical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Highlights:
+- 🚗 **Tesla Intern** – Worked on battery interconnect inspection, DOE studies, and AI/ML-based vision system support for defect detection.
+- 🏭 **Intel Module Engineer** – Supported advanced metrology tool installation, qualification, and process improvement in semiconductor manufacturing.
+- 📊 **Data Analytics Experience** – Built SQL-based data collection workflows and Tableau dashboards for process monitoring and decision-making.
+- 🤖 **AI/ML Experience** – Worked on CNN/ML-based defect detection workflows and data preparation for manufacturing inspection systems.
+- 📈 **Statistical Problem Solving** – Applied DOE, Minitab, root cause analysis, and process capability methods to improve quality and performance.
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Niraj%20Ghode-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Minitab](https://img.shields.io/badge/Minitab-005CAB?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📌 Current Interests:
+- Machine Learning for manufacturing
+- Predictive maintenance
+- Computer vision for defect detection
+- Data analytics with Python and SQL
+- AI/ML for industrial process optimization
