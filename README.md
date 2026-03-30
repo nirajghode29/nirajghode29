@@ -12,8 +12,8 @@ Above all, I enjoy learning and using technology to solve practical problems.
 - 📈 **Statistical Problem Solving** – Applied DOE, Minitab, root cause analysis, and process capability methods to improve quality and performance.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Niraj%20Ghode-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Niraj%20Ghode-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/niraj-ghode-959133147/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/nirajghode29)
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
