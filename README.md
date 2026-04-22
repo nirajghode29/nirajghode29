@@ -27,6 +27,7 @@ Above all, I enjoy learning and using technology to solve practical problems.
 ![Minitab](https://img.shields.io/badge/Minitab-005CAB?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![NVIDIA DALI](https://img.shields.io/badge/DALI-Nvidia-green)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ## 📌 Current Interests:
 - AI/ML for solving problems
