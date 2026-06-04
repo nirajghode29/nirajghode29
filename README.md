@@ -6,7 +6,7 @@ Above all, I enjoy learning and using technology to solve practical problems.
 
 ## Technical Highlights:
 - 🚗 **Tesla Intern** – Worked on battery interconnect inspection, DOE studies, and AI/ML-based vision system support for defect detection.
-- 🏭 **Intel Module Engineer** – Supported advanced metrology tool installation, qualification, and process improvement in semiconductor manufacturing.
+- 🏭 **Intel Module Engineer** – Supported advanced metrology process improvement and solution development in semiconductor manufacturing.
 - 📊 **Data Analytics Experience** – Built SQL-based data collection workflows and Tableau dashboards for process monitoring and decision-making.
 - 🤖 **AI/ML Experience** – Worked on CNN/ML-based defect detection workflows and data preparation for manufacturing inspection systems.
 - 📈 **Statistical Problem Solving** – Applied DOE, Minitab, root cause analysis, and process capability methods to improve quality and performance.
