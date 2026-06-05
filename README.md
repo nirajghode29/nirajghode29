@@ -12,7 +12,13 @@ Above all, I enjoy learning and using technology to solve practical problems.
 - 📈 **Statistical Problem Solving** – Applied DOE, Minitab, root cause analysis, and process capability methods to improve quality and performance.
 
 ## Project:
-AI Agent with diverse knowledge. Setup has one decision-making loop (OpenAI) plus LLM review (Claude)
+AI Agent with diverse knowledge and equiped with Multiple tools. Setup has one decision-making loop (OpenAI) plus LLM review (Claude).
+
+Architecture: single agent, ReAct (reason→act→observe loop), plus a validation step.
+
+Memory: conversation history as short-term memory and long term memory.
+
+
 <img width="2064" height="1033" alt="image" src="https://github.com/user-attachments/assets/c0f60f01-7a99-43a9-b117-058c729669d2" />
 
 
