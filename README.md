@@ -11,7 +11,7 @@ Above all, I enjoy learning and using technology to solve practical problems.
 - 🤖 **AI/ML Experience** – Worked on CNN/ML-based defect detection workflows and data preparation for manufacturing inspection systems.
 - 📈 **Statistical Problem Solving** – Applied DOE, Minitab, root cause analysis, and process capability methods to improve quality and performance.
 
-Projects:
+##Project:
 AI Agent with diverse knowledge. Setup has one decision-making loop (OpenAI) plus LLM review (Claude)
 <img width="2064" height="1033" alt="image" src="https://github.com/user-attachments/assets/c0f60f01-7a99-43a9-b117-058c729669d2" />
 
