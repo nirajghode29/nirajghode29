@@ -12,7 +12,7 @@ Above all, I enjoy learning and using technology to solve practical problems.
 - 📈 **Statistical Problem Solving** – Applied DOE, Minitab, root cause analysis, and process capability methods to improve quality and performance.
 
 ## Project:
-Mulri AI Agents with diverse knowledge and equiped with Multiple tools. Setup has one decision-making loop (OpenAI) plus LLM review (Claude).
+Multi AI Agent Software/AI Developer with diverse knowledge and equiped with Multiple tools. Setup has one decision-making loop (OpenAI) plus LLM review (Claude).
 
 Architecture: ReAct (reason→act→observe loop), plus a validation step.
 
