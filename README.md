@@ -30,6 +30,11 @@ Memory: conversation history as short-term memory and long term memory.
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)](https://www.langchain.com/langgraph)
+[![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
+[![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6F00?style=for-the-badge&logo=probot&logoColor=white)](https://en.wikipedia.org/wiki/AI_agent)
+[![Vector Database](https://img.shields.io/badge/Vector_Database-000000?style=for-the-badge&logo=pinecone&logoColor=white)](https://en.wikipedia.org/wiki/Vector_database)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
