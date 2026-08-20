@@ -43,6 +43,8 @@ Memory: conversation history as short-term memory and long term memory.
 
 ## 📌 Current Interests:
 - AI/ML for solving problems
+- Physical AI/Robotics
+- Design Engineering
 - Computer vision for defect detection
 - Data analytics with Python, Minitab and SQL
 - AI/ML for industrial process optimization
