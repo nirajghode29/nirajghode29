@@ -11,12 +11,7 @@ Above all, I enjoy learning and using technology to solve practical problems.
 - 🤖 **AI/ML Experience** – Worked on CNN/ML-based defect detection workflows and data preparation for manufacturing inspection systems.
 - 📈 **Statistical Problem Solving** – Applied DOE, Minitab, root cause analysis, and process capability methods to improve quality and performance.
 
-
-
-
-<img width="2064" height="1033" alt="image" src="https://github.com/user-attachments/assets/c0f60f01-7a99-43a9-b117-058c729669d2" />
-
-
+##Check Repo for application and open source contribution
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Niraj%20Ghode-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/niraj-ghode-959133147/)
